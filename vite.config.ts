@@ -8,7 +8,7 @@ export default defineConfig(({mode}) => {
   return {
     // Use a relative base so the built app works when served from GitHub Pages
     // (works for both user pages and project pages).
-    base: './',
+    base: '/',
     plugins: [react(), tailwindcss()],
     define: {
       'process.env.GEMINI_API_KEY': JSON.stringify(env.GEMINI_API_KEY),

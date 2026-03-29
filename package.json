@@ -1,23 +1,14 @@
 {
-  "name": "react-example",
+  "name": "dhanushgowda-portfolio",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
-  "scripts": {
-    "dev": "vite --port=3000 --host=0.0.0.0",
-    "build": "vite build",
-    "preview": "vite preview",
-    "clean": "rm -rf dist",
-    "lint": "tsc --noEmit"
-  },
-  "homepage": "./",
+  "homepage": "https://dhanushgowda17.github.io/",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dhanushgowda17/dhanushgowda.github.io.git"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy:gh-pages": "npx gh-pages -d dist",
     "dev": "vite --port=3000 --host=0.0.0.0",
     "build": "vite build",
     "preview": "vite preview",
