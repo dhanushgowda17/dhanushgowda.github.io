@@ -60,7 +60,7 @@ export default function Hero() {
             View Experience <ArrowDown size={18} />
           </button>
           <a
-            href="/Dhanush_Gowda_Resume.txt"
+            href="./Dhanush_Gowda_Resume.txt"
             download="Dhanush_Gowda_Resume.txt"
             className="px-8 py-4 rounded-full bg-white/10 text-white font-semibold flex items-center gap-2 hover:bg-white/20 transition-colors border border-white/10 w-full sm:w-auto justify-center"
           >
