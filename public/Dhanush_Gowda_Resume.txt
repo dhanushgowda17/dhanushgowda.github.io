@@ -1,0 +1,68 @@
+Dhanush Gowda RL
++91 9606772482 | dhanush.rangaswamy1@gmail.com | In Dhanush
+
+Summary
+Data Engineer with strong Python skills and hands-on experience building scalable AI/ML systems on Azure using Spark, Databricks, and Delta Lake. Skilled in developing production-grade data pipelines for ML workflows and LLM-driven applications. Combines data engineering and ML expertise to deliver end-to-end, high-impact AI solutions.
+
+Technical Skills
+Programming & Query Languages: Python, SQL
+Big Data & Distributed Processing: Apache Spark (PySpark), Databricks, Delta Lake
+Cloud & Storage Platforms: Azure Data Factory, Azure Databricks, Azure Data Lake Storage, Blob Storage
+Data Engineering & Pipelines: ETL/ELT Workflows, Data Lakehouse Architecture, Data Modeling, Data Quality Validation, Data Orchestration
+DevOps & CI/CD: Git, Azure DevOps, Version Control, Automated Deployments
+Collaboration & Productivity: Jira, Confluence, Microsoft Teams, SharePoint
+
+Experience
+IBM India Pvt Ltd (Client: Heineken)
+Feb 2024 – Present
+Data Engineer
+Bengaluru, India
+– Designed and optimized end-to-end data pipelines using Azure Data Factory to ingest, transform, and orchestrate structured and unstructured datasets across global business units.
+– Developed distributed data processing workflows using Databricks + Apache Spark (PySpark) for large-scale analytical workloads.
+– Implemented Delta Lake based multi-layered data lake architecture (Bronze, Silver, Gold), improving data reliability, governance, and query efficiency.
+– Automated data validation, monitoring, and error-handling frameworks, reducing manual intervention and improving data quality for analytics and AI model consumption.
+– Collaborated with data scientists to operationalize ML models by delivering inference-ready datasets and supporting experimentation pipelines in Databricks environments.
+– Collaborated with cross-functional teams and contributed to CI/CD workflows through Azure DevOps and version-controlled deployments.
+
+Hexaware Technologies
+September 2023 - February 2024
+Associate System Engineer
+Bengaluru, Karnataka, India
+– Worked on basic Java and Spring Boot application development
+– Assisted in creating simple REST APIs and database interactions
+– Developed basic UI components using HTML, CSS, and JavaScript
+– Tested features and fixed issues during Project Delivery
+
+Inflow Technologies
+Jan 2023 – Dec 2023
+AI/ML Intern
+Bengaluru, India
+– Built predictive models using XGBoost and Linear Regression to estimate calorie expenditure.
+– Performed feature engineering and data preprocessing for model training and evaluation.
+– Gained practical exposure to machine learning workflows, dataset preparation, and performance tuning.
+
+Education
+SJC Institute of Technology (VTU)
+2019 – 2023
+B.E. Computer Science & Engineering | CGPA: 8.3/10
+Bengaluru, India
+
+Projects
+Real-Time Data Lakehouse Pipeline on Azure
+Azure Data Factory, Databricks, PySpark, Delta Lake, ADLS
+– Designed a scalable data ingestion and transformation pipeline to process raw sales data from external source systems into Azure Data Lake Storage (ADLS).
+– Developed distributed processing notebooks in Databricks (PySpark) for cleansing, deduplication, and business rule transformations.
+– Implemented a Delta Lake-based Bronze → Silver → Gold layer architecture to support analytics and reporting workloads.
+– Scheduled workflows and dependency orchestration using Azure Data Factory, enabling fully automated daily refresh.
+
+Built Custom AI assistants for Specific BAU Use Cases
+WatsonX AI, IBM Consulting Advantage
+– Built Data Model Auto Draft that transforms Software Design Document(SDD) to Logical Data Model which has saved almost saved 2 sprints worth of time.
+– Optimized DRS Operation helper which is used for troubleshooting the pipeline error, Databricks workflows.
+– Built User Manual Generator for PowerBI Reports, which has saved hours of manual work to BI specialists and accelerating project delivery timeline.
+
+Professional Development & Certifications
+• Databricks Certified Data Engineer Associate (2025)
+• Databricks Certified Associate Developer – Apache Spark (2024)
+• Microsoft Certified: Azure Data Fundamentals (DP-900) (2024)
+• Prompt Engineering Certification – IBM Developer Skills Network (2025)
