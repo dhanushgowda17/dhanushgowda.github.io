@@ -15,7 +15,7 @@ export const resumeData = {
   },
   experience: [
     {
-      company: "IBM India Pvt Ltd (Client: Heineken)",
+      company: "IBM India Pvt Ltd",
       role: "Data Engineer",
       dates: "Feb 2024 – Present",
       location: "Bengaluru, India",
