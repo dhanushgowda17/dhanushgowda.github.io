@@ -34,10 +34,14 @@ export const resumeData = {
       dates: "September 2023 - February 2024",
       location: "Bengaluru, Karnataka, India",
       bullets: [
-        "Worked on basic Java and Spring Boot application development",
-        "Assisted in creating simple REST APIs and database interactions",
-        "Developed basic UI components using HTML, CSS, and JavaScript",
-        "Tested features and fixed issues during Project Delivery"
+        "Collaborated with cross-functional teams to design and develop RESTful APIs using Java and Spring Boot, contributing to scalable and maintainable backend services.",
+        "Built and enhanced REST API endpoints for data retrieval and processing, ensuring efficient communication between frontend and backend systems.",
+        "Implemented database interactions using SQL, including writing queries, optimizing data access, and supporting CRUD operations.",
+        "Assisted in debugging, testing, and improving application performance to ensure reliability and responsiveness.",
+        "Developed responsive and user-friendly UI components using HTML, CSS, and JavaScript, improving overall user experience.",
+        "Worked closely with senior developers to understand system architecture and follow best practices in software development.",
+        "Utilized Git for version control, enabling efficient collaboration, code reviews, and streamlined project delivery through branching and merging strategies."
+        
       ]
     },
     {
